@@ -47,3 +47,7 @@ Summary and Recommendations
 Contributor: Gerald Bwanika
 Compiled the final insights and recommendations based on the analysis and modelling results.
 Suggested interventions and strategies to improve student performance based on the findings.
+
+Streamlit App
+Contributor: Arnold Beeka and Gerald Bwanika
+Built a streamlit app to test our model's predictive capabilities
