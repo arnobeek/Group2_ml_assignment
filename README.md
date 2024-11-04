@@ -11,7 +11,7 @@ Cleaned the dataset by handling missing values and outliers.
 Normalized and standardized the data for better performance of machine learning models.
 
 Exploratory Data Analysis (EDA)
-Univariate Visualization Contributor: Ivan Kitakule
+Univariate Visualization Contributor: Arnold Beeka 
 Conducted univariate analysis to understand the distribution of individual variables.
 Visualized the data using histograms, box plots, and bar charts.
 
@@ -47,3 +47,7 @@ Summary and Recommendations
 Contributor: Gerald Bwanika
 Compiled the final insights and recommendations based on the analysis and modelling results.
 Suggested interventions and strategies to improve student performance based on the findings.
+
+Streamlit App
+Contributor: Arnold Beeka and Gerald Bwanika
+Built a streamlit app to test our model's predictive capabilities
