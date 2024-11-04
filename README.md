@@ -11,7 +11,7 @@ Cleaned the dataset by handling missing values and outliers.
 Normalized and standardized the data for better performance of machine learning models.
 
 Exploratory Data Analysis (EDA)
-Univariate Visualization Contributor: Ivan Kitakule
+Univariate Visualization Contributor: Arnold Beeka 
 Conducted univariate analysis to understand the distribution of individual variables.
 Visualized the data using histograms, box plots, and bar charts.
 
